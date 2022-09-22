@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Redux, Javascript, Express, Node.js, PostgreSQL**
 
-- 📫 How to reach me **https://t.me/keruha_dva_uha**
+- 📫 How to reach me **https://t.me/keruhajs**
 
 - ⚡ Fun fact **I like black tea with no sugar**
 
